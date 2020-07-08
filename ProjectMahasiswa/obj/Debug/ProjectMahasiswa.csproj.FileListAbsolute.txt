@@ -1,0 +1,5 @@
+D:\aa1\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\aa1\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\aa1\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojResolveAssemblyReference.cache
+D:\aa1\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\aa1\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
